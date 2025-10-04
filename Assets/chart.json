@@ -1,0 +1,80 @@
+{
+    "bpm": 115.4345932006836,
+    "offset": 0.0,
+    "beatUnit": 4,
+    "grid": 4,
+    "notes": [
+        {
+            "time": 0.0,
+            "lane": 0,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 0.0,
+            "lane": 1,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 0.0,
+            "lane": 2,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 2.079099416732788,
+            "lane": 0,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 2.079099416732788,
+            "lane": 1,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 2.079099416732788,
+            "lane": 2,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 4.158198833465576,
+            "lane": 0,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 4.158198833465576,
+            "lane": 1,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 4.158198833465576,
+            "lane": 2,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 6.237298011779785,
+            "lane": 0,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 6.237298011779785,
+            "lane": 1,
+            "type": 0,
+            "duration": 0.0
+        },
+        {
+            "time": 6.237298011779785,
+            "lane": 2,
+            "type": 0,
+            "duration": 0.0
+        }
+    ]
+}
